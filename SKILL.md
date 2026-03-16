@@ -1,8 +1,9 @@
 ---
 name: parcel-coupon
-description: 调用快递优惠券API获取一站式快递服务优惠券，包括智能寄件、智能匹配价格等优惠服务。返回优惠券链接和二维码图片，用户可点击链接或扫描二维码在微信中领取优惠。
+display_name: 快递优惠券-支持顺丰、中通、圆通、韵达、申通、菜鸟、同城配送，件件优惠
+description: 获取快递优惠券，支持顺丰、中通、圆通、韵达、申通、菜鸟等。返回领取链接和二维码图片，用户可点击链接或扫描二维码在微信中领取优惠。
 english_description: Call parcel/courier coupon API to fetch one-stop logistics service coupons, including smart shipping and smart price matching. Returns coupon links and QR code images for users to redeem via WeChat.
-version: 1.0.0
+version: 1.0.1
 author: moooai
 permissions: 网络访问权限（调用快递优惠券API）
 homepage: https://github.com/moooai/parcel-coupon
